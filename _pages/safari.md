@@ -1,1 +1,0 @@
-/Volumes/StorageSSD/Dropbox/sandbox/jekyll-docs-template/_posts/2015-01-19-safari.md
