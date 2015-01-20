@@ -3,6 +3,7 @@ layout: page
 title: "Notification Center"
 category: hacks
 date: 2015-01-19 15:34:49
+order: 6
 ---
 
 #### Disable Notification Center
