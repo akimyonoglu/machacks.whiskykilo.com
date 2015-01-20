@@ -9,7 +9,7 @@ subtitle: 'Documenting a painless build process for your Mac'
 navigation: 1
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/bruth/jekyll-docs-template'
+codeurl: 'http://whiskykilo.com'
 
 # Default categories (in order) to appear in the navigation
 sections: [
