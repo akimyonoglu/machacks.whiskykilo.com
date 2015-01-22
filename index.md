@@ -20,3 +20,9 @@ Apple has not documented the capabilities of the commands that we talk about on 
 #### Don't Be Stupid.
 
 I'm not responsible for you doing irreversible damage to your Mac. Seriously, don't be stupid.
+
+#### Credit Where Credit is Due
+
+Mathias Bynens has done a great job with opening up his [dotFiles](https://github.com/mathiasbynens/dotfiles) with the world. Some of the tips posted here have been gleaned from his dotFiles. Some have been pulled from my random hackery, and various places around the web.
+
+In no way, shape or form lay claim to finding all of these hacks on my own. I am solely creating a central repo for them.
